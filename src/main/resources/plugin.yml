@@ -1,0 +1,7 @@
+name: AnimalPickup
+version: 1.0.1
+main: com.partakith.APCore
+description: Animal Pickup Core
+author: Partakith
+website: https://github.com/Partakithware
+api-version: '1.21.8'

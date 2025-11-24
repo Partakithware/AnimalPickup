@@ -1,0 +1,24 @@
+pickuppables:
+  custom.permission.pickup:
+    - PIG
+    - SHEEP
+    - COW
+    - CHICKEN
+    - WOLF
+    - VILLAGER
+    - CAT
+    - HORSE
+    - TRADER_LLAMA
+    - LLAMA
+    - CAMEL
+    - ALLAY
+    - AXOLOTL
+    - BEE
+    - ARMADILLO
+    - DONKEY
+    - FOX
+    - MOOSHROOM
+  custom.permission.mobs:
+    - ZOMBIE
+    - CAVE_SPIDER
+    - SKELETON
